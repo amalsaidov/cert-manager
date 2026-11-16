@@ -70,8 +70,8 @@ github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.25 h1:rKwkY3
 github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.25/go.mod h1:dBuAadQKd1F4Q4ZOg8gnFmuSHMRE40Pe3IfFwbtC4lE=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.12 h1:wzAqMZ2O4+ij9HQqIrk+P9PBGacE0wOTuWB7Mo97//I=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.14.12/go.mod h1:/0TfyruByHsOlphzP26xDTRe2DKD0J1I1Uyy2TyP8EI=
-github.com/aws/aws-sdk-go-v2/service/route53 v1.70.10 h1:CSToEknPPik1neAIlinq7RTFG4XYAHqPkW7LwlbqGiU=
-github.com/aws/aws-sdk-go-v2/service/route53 v1.70.10/go.mod h1:ESN88d5omEDCHVFJ+jz01i3w8oYvGVj3lSCYhM6BoL8=
+github.com/aws/aws-sdk-go-v2/service/route53 v1.71.0 h1:z3rXSCR6cqg34XeZlzpYo1txK9EP/lAPh7NxhQSTF7g=
+github.com/aws/aws-sdk-go-v2/service/route53 v1.71.0/go.mod h1:ESN88d5omEDCHVFJ+jz01i3w8oYvGVj3lSCYhM6BoL8=
 github.com/aws/aws-sdk-go-v2/service/signin v1.13.1 h1:ssrDA6AKfXEc3h0Pf4EI4vQ8sN5Zd136SrU9Tjr0XPc=
 github.com/aws/aws-sdk-go-v2/service/signin v1.13.1/go.mod h1:LdwHjKqPE9VCC7sTlWcOAizZx3ZJYjmfwC/EW2tIIAE=
 github.com/aws/aws-sdk-go-v2/service/sso v1.39.5 h1:ANAoa+qt3/9kXnvQVgUyxcTzhzZf4DqaBS+M2DQrELU=
@@ -103,8 +103,8 @@ github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/digitalocean/godo v1.237.0 h1:hJtCHFvcD0zpvPZan86/6St2dQ1GLMF8+UIipqfCVhg=
-github.com/digitalocean/godo v1.237.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
+github.com/digitalocean/godo v1.239.0 h1:qIuK8esYikWWux0eliKUuntxbNfTknuSegOQLHSHh3c=
+github.com/digitalocean/godo v1.239.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
 github.com/dustin/go-humanize v1.0.1 h1:GzkhY7T5VNhEkwH0PVJgjz+fX1rhBrR7pRT3mDkpeCY=
 github.com/dustin/go-humanize v1.0.1/go.mod h1:Mu1zIs6XwVuF/gI1OepvI0qD18qycQx+mFykh5fBlto=
 github.com/emicklei/go-restful/v3 v3.13.0 h1:C4Bl2xDndpU6nJ4bc1jXd+uTmYPVUwkD6bFY/oTyCes=
@@ -444,8 +444,8 @@ gomodules.xyz/jsonpatch/v2 v2.5.0 h1:JELs8RLM12qJGXU4u/TO3V25KW8GreMKl9pdkk14RM0
 gomodules.xyz/jsonpatch/v2 v2.5.0/go.mod h1:AH3dM2RI6uoBZxn3LVrfvJ3E0/9dG4cSrbuBJT4moAY=
 gonum.org/v1/gonum v0.17.0 h1:VbpOemQlsSMrYmn7T2OUvQ4dqxQXU+ouZFQsZOx50z4=
 gonum.org/v1/gonum v0.17.0/go.mod h1:El3tOrEuMpv2UdMrbNlKEh9vd86bmQ6vqIcDwxEOc1E=
-google.golang.org/api v0.312.0 h1:c6EbM0/irOk8MemsYRO3ewSQWxVk2QYQJ/rYHXwEYh0=
-google.golang.org/api v0.312.0/go.mod h1:kn5kd1IMbs2x4hq99GcaTOumC0fnMYMwLNAfFxzpISU=
+google.golang.org/api v0.314.0 h1:1P6RtsfXD7KfUUI7YxdGcJ5Ekw+QHH9dEVTHzWc96p0=
+google.golang.org/api v0.314.0/go.mod h1:kn5kd1IMbs2x4hq99GcaTOumC0fnMYMwLNAfFxzpISU=
 google.golang.org/genproto v0.0.0-20261012220534-4341edf3f941 h1:CXq2XEi5aEyLjjPZIwqrmQH8ZY4ctUwK7uyAx3mjX/U=
 google.golang.org/genproto v0.0.0-20261012220534-4341edf3f941/go.mod h1:3gK0ehnhP0V7/x3ypGoLyT3d0n6TSi/EcsphIjHrcz4=
 google.golang.org/genproto/googleapis/api v0.0.0-20261012220534-4341edf3f941 h1:DS/w3N8rsfrwxwgGSj6WhMsPo7aNQGmDx74J81zd0NQ=
